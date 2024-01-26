@@ -1,4 +1,9 @@
-## Olá, sou o Gustavo, desenvolvedor front-end!
+## Olá, sou o Gustavo! 👋
+
+Sou desenvolvedor web front-end, e atualmente venho me desenvolvimento com ReactJS. Possuo experiência também em desenvolvimento low-code com as ferramentas da Microsoft Power Platform(Power Automate, Power Apps e Power Pages), habilidades essas que foram adquiridas em oito meses de estágio.
+
+Abaixo estão algumas das tecnologias que possuo conhecimento.
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
