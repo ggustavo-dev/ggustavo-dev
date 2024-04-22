@@ -1,8 +1,8 @@
 ## Olá, sou o Gustavo! 👋
 
-Sou engenheiro de software e atualmente estou estudando desenvolvimento web com React e NodeJS. Possuo experiência também em desenvolvimento low-code com as ferramentas da Microsoft Power Platform(Power Automate, Power Apps e Power Pages).
+Software engineer currently studying web development with React and NodeJS. I also have job experience developing low-code with Microsoft Power Platform(Power Automate, Power Apps, Power BI, etc) and with Sharepoint environment.
 
-Abaixo estão as tecnologias que possuo conhecimento.
+Below are some of technologies i have knowledge.
 
 
 <div style="display: inline_block"><br>
