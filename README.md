@@ -1,8 +1,8 @@
 ## Olá, sou o Gustavo! 👋
 
-Sou desenvolvedor web front-end, e atualmente venho me desenvolvimento com ReactJS. Possuo experiência também em desenvolvimento low-code com as ferramentas da Microsoft Power Platform(Power Automate, Power Apps e Power Pages), habilidades essas que foram adquiridas em oito meses de estágio.
+Sou engenheiro de software e atualmente estou estudando desenvolvimento web com React e NodeJS. Possuo experiência também em desenvolvimento low-code com as ferramentas da Microsoft Power Platform(Power Automate, Power Apps e Power Pages).
 
-Abaixo estão algumas das tecnologias que possuo conhecimento.
+Abaixo estão as tecnologias que possuo conhecimento.
 
 
 <div style="display: inline_block"><br>
