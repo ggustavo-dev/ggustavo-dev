@@ -1,8 +1,6 @@
-## Olá, sou o Gustavo! 👋
+## Hi, i'm Gustavo! 👋
 
-Software engineer currently studying web development with React and NodeJS. I also have job experience developing low-code with Microsoft Power Platform(Power Automate, Power Apps, Power BI, etc) and with Sharepoint environment.
-
-Below are some of technologies i have knowledge.
+I'm a software engineer currently studying web development with React and NodeJS. Below are some technologies i have knowledge.
 
 
 <div style="display: inline_block"><br>
@@ -15,7 +13,6 @@ Below are some of technologies i have knowledge.
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="" height="25" width="30" style="margin-left: 10px" src="https://seeklogo.com/images/M/microsoft-power-platform-logo-4E514E7575-seeklogo.com.png">
 </div>
   
   ##
