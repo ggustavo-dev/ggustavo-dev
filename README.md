@@ -1,6 +1,6 @@
 ## Hi, i'm Gustavo! 👋
 
-I'm a software engineer currently studying web development with React and NextJS. Below are some technologies i have knowledge.
+I'm a software engineer currently studying web development with React and Node.js. Below are some technologies i've knowledge.
 
 
 <div style="display: inline_block"><br>
