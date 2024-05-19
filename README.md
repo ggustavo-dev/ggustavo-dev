@@ -1,6 +1,6 @@
 ## Hi, i'm Gustavo! 👋
 
-I'm a software engineer currently focused in iOS development with Swift. Below are some technologies i've knowledge.
+I'm a software engineer currently studying iOS development with Swift and Web development with React. Below are some technologies i've knowledge.
 
 
 <div style="display: inline_block"><br>
