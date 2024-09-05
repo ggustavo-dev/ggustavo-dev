@@ -4,7 +4,7 @@ I'm a software developer currently focused in RPA development with A360 and Pyth
 
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="" height="30" width="30" margin-right="10px" src="https://www.automationanywhere.com/sites/default/files/images/AAI/automation-anywhere-logo-a-only.png">
+  <img align="center" alt="" height="30" width="30" style="margin-left: '10px'" src="https://www.automationanywhere.com/sites/default/files/images/AAI/automation-anywhere-logo-a-only.png">
   <img align="center" alt="" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Microsoft_Power_Automate.svg/2048px-Microsoft_Power_Automate.svg.png">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
