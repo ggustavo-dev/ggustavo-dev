@@ -1,6 +1,6 @@
 ## Hi, i'm Gustavo! 👋
 
-I'm a software developer currently focused in RPA development with A360 and Python. Below are some technologies i've knowledge.
+I'm a software developer focused in RPA development with A360 and Python. Below are some technologies i've knowledge.
 
 
 <div style="display: inline_block"><br>
