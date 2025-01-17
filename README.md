@@ -1,6 +1,6 @@
 ## Hi, i'm Gustavo! 👋
 
-I'm a software developer focused in RPA development with A360 and Python. Below are some technologies i've knowledge.
+I'm a software developer focused in front-end development with React. Below are some technologies i've knowledge.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
